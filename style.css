@@ -1,0 +1,25 @@
+.heading {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  align-items: center;
+  text-align: center;
+  background-color: aqua;
+  padding: 3rem 0 3rem 0;
+  font-size: 35px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: aquamarine;
+}
+
+.player1,
+.player2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  align-items: center;
+  text-align: center;
+
+  padding: 2rem 0 2rem 0;
+  font-size: 20px;
+}
